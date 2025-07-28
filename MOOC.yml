@@ -133,6 +133,7 @@ dependencies:
   - samtools=1.17=hd87286a_1
   - setuptools=68.0.0=pyhd8ed1ab_0
   - six=1.16.0=pyh6c4a22f_0
+  - spades
   - spectra=0.0.11=py_1
   - sra-tools=3.0.6=h9f5acd7_0
   - tabixpp=1.1.2=hd68fcf3_1
