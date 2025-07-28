@@ -1,0 +1,12 @@
+name: annotation
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - snpeff
+  - ensembl-vep
+  - rgi
+  - ncbi-amrfinderplus
+  - openjdk
