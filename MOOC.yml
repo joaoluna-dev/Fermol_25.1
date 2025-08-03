@@ -139,6 +139,7 @@ dependencies:
   - sra-tools=3.0.6=h9f5acd7_0
   - tabixpp=1.1.2=hd68fcf3_1
   - tk=8.6.12=h27826a3_0
+  - trimmomatic
   - typing_extensions=4.7.1=pyha770c72_0
   - tzdata=2023c=h71feb2d_0
   - urllib3=2.0.4=pyhd8ed1ab_0
